@@ -476,6 +476,5 @@ Will not do anything if url-show-status is nil."
 (add-hook 'lisp-mode-hook 'cltl2-lisp-mode-install)
 (add-hook 'ilisp-mode-hook 'cltl2-lisp-mode-install)
 
-;;; Providing ourself. 
-(provide 'ilisp-browse-cltl2)
+(provide 'browse-cltl2)
 ;;; browse-cltl2.el ends here.
